@@ -1,2 +1,2 @@
 # SMUDI
-## SunMoon Univ. Daily Indicator
+## SunMoon Univ. Daily Informer
